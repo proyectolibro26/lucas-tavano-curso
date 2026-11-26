@@ -1,5 +1,5 @@
 // Service worker: guarda la landing para abrirla sin conexión.
-const CACHE = 'lt-curso-v1';
+const CACHE = 'lt-curso-v2';
 const FILES = ['./', './index.html', './manifest.webmanifest', './icon.svg'];
 
 self.addEventListener('install', e => {

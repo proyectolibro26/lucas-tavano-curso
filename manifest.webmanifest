@@ -1,7 +1,7 @@
 {
-  "name": "Lucas Tavano · Curso de Claude Code",
-  "short_name": "Claude Code",
-  "description": "Curso de Claude Code en español, de cero a tu primer sistema con IA.",
+  "name": "Lucas Tavano · Cursos de IA",
+  "short_name": "Cursos IA",
+  "description": "Cursos de IA con salida laboral, en español.",
   "lang": "es-AR",
   "start_url": "./",
   "scope": "./",
